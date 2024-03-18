@@ -1,4 +1,4 @@
-package K01_LogicaDeProgramacao.cap5_controlFluxo;
+package K01_LogicaDeProgramacao.cap5_controlFluxo.estrCondicional;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package K01_LogicaDeProgramacao.cap5_controlFluxo;
+package K01_LogicaDeProgramacao.cap5_controlFluxo.estrCondicional;
 
 public class Exerc02 {
     public static void main(String[] args) {
